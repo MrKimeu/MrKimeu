@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=200&section=header&text=KYALO%20ISAAC%20KIMEU&fontSize=50&fontColor=0CF709&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Algorithms%20%26%20Data%20Systems&descAlignY=55&descSize=20" width="100%" alt="Header banner"/>
+  <img src="./assets/header.svg" width="100%" alt="KYALO ISAAC KIMEU - Web Developer & Algorithmic Systems"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0CF709&center=true&vCenter=true&width=800&lines=Fast+Web+Systems;Data-Driven+Decisions;Python+%7C+C%2B%2B+%7C+PHP+%7C+JavaScript)](https://github.com/MrKimeu)
+  <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=0CF709&center=true&vCenter=true&width=650&height=42&lines=Fast+Web+Systems;Data-Driven+Decisions;Python+%7C+C%2B%2B+%7C+PHP+%7C+JavaScript;Building+Clever+Systems%2C+One+Algorithm+At+A+Time!)](https://github.com/MrKimeu)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kimeu_dev-8B4DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MrKimeu/kyalo-s-devdocs)
 [![Followers](https://img.shields.io/github/followers/MrKimeu?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github)](https://github.com/MrKimeu?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=MrKimeu&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge)](https://github.com/MrKimeu)
 </div>
@@ -82,6 +85,5 @@ I build responsive web applications from requirements to deployment, with a focu
 ---
 
 <div align="center">
-  <h3>🟢 SYSTEM STATUS: ONLINE</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=100&section=footer" width="100%" alt="Footer banner"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer banner"/>
 </div>

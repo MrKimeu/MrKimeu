@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80">
+  <defs>
+    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e1ff" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#0CF709" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#00e1ff" stop-opacity="0.15" />
+    </linearGradient>
+    <linearGradient id="footerWave2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0CF709" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#00e1ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#0CF709" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="80" rx="10" fill="#0b0f17" />
+  <path d="M 0 35 Q 240 10 480 40 T 900 30 L 900 80 L 0 80 Z" fill="url(#footerWave1)" />
+  <path d="M 0 45 Q 260 20 540 50 T 900 40 L 900 80 L 0 80 Z" fill="url(#footerWave2)" />
+  <path d="M 0 40 Q 250 15 500 45 T 900 35" fill="none" stroke="#0CF709" stroke-width="1.2" stroke-opacity="0.6" />
+
+  <text x="450" y="32" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="600" fill="#0CF709" letter-spacing="2" text-anchor="middle">
+    ● SYSTEM STATUS: ONLINE · NAIROBI, KENYA
+  </text>
+</svg>
