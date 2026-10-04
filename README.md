@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=0CF709&center=true&vCenter=true&width=650&height=42&lines=Fast+Web+Systems;Data-Driven+Decisions;Python+%7C+C%2B%2B+%7C+PHP+%7C+JavaScript;Building+Clever+Systems%2C+One+Algorithm+At+A+Time!)](https://github.com/MrKimeu)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kimeu_dev-8B4DFF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/MrKimeu/kyalo-s-devdocs)
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-kyalo--s--devdocs.vercel.app-8B4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://kyalo-s-devdocs.vercel.app/)
 [![Followers](https://img.shields.io/github/followers/MrKimeu?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github)](https://github.com/MrKimeu?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=MrKimeu&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge)](https://github.com/MrKimeu)
 </div>
@@ -17,6 +17,7 @@
 - **Name:** Kyalo Isaac Kimeu  
 - **Location:** Nairobi, Kenya 🇰🇪  
 - **Role:** Web Developer · Algorithms & Data Systems  
+- **Portfolio:** [kyalo-s-devdocs.vercel.app](https://kyalo-s-devdocs.vercel.app/)  
 - **Contact:** [ikyalokimeu@gmail.com](mailto:ikyalokimeu@gmail.com)
 
 I build responsive web applications from requirements to deployment, with a focus on reliable data systems, real-time features, and practical AI integration.
@@ -77,6 +78,7 @@ I build responsive web applications from requirements to deployment, with a focu
 
 <div align="center">
 
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-kyalo--s--devdocs.vercel.app-8B4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://kyalo-s-devdocs.vercel.app/)
 [![Email](https://img.shields.io/badge/CONTACT-ikyalokimeu@gmail.com-0CF709?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikyalokimeu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-MrKimeu-00e1ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrKimeu)
 
